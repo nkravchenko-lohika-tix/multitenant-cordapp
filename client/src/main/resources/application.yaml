@@ -1,0 +1,7 @@
+partyA:
+  host: localhost:10009
+
+partyB:
+  host: localhost:10012
+
+server.port: 8085
